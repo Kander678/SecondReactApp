@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCO2Emission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CO2Emission>
+    <CO2EmissionID>37</CO2EmissionID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Coal>214.31</Coal>
+    <Oil>62.58</Oil>
+    <Gas>30.8</Gas>
+    <Cement>5.87</Cement>
+    <CO2_emission_summary>313.57</CO2_emission_summary>
+  </CO2Emission>
+  <CO2Emission>
+    <CO2EmissionID>112</CO2EmissionID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Coal>214.31</Coal>
+    <Oil>62.58</Oil>
+    <Gas>30.8</Gas>
+    <Cement>5.87</Cement>
+    <CO2_emission_summary>313.57</CO2_emission_summary>
+  </CO2Emission>
+  <CO2Emission>
+    <CO2EmissionID>187</CO2EmissionID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Coal>214.31</Coal>
+    <Oil>62.58</Oil>
+    <Gas>30.8</Gas>
+    <Cement>5.87</Cement>
+    <CO2_emission_summary>313.57</CO2_emission_summary>
+  </CO2Emission>
+  <CO2Emission>
+    <CO2EmissionID>262</CO2EmissionID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Coal>214.31</Coal>
+    <Oil>62.58</Oil>
+    <Gas>30.8</Gas>
+    <Cement>5.87</Cement>
+    <CO2_emission_summary>313.57</CO2_emission_summary>
+  </CO2Emission>
+</ArrayOfCO2Emission>

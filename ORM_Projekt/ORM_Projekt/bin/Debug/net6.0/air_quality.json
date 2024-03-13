@@ -1,0 +1,34 @@
+[
+  {
+    "AirQualityID": 20,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 23.36,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "AirQualityID": 70,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 23.36,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "AirQualityID": 120,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 23.36,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "AirQualityID": 170,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 23.36,
+    "Country": null,
+    "Year": null
+  }
+]

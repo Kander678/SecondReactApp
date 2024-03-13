@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfIndustryGrowth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IndustryGrowth>
+    <IndustryID>7</IndustryID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Industry>0</Industry>
+  </IndustryGrowth>
+  <IndustryGrowth>
+    <IndustryID>87</IndustryID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Industry>0</Industry>
+  </IndustryGrowth>
+  <IndustryGrowth>
+    <IndustryID>167</IndustryID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Industry>0</Industry>
+  </IndustryGrowth>
+  <IndustryGrowth>
+    <IndustryID>247</IndustryID>
+    <CountryCode>POL</CountryCode>
+    <YearCode>[YR2013]</YearCode>
+    <Industry>0</Industry>
+  </IndustryGrowth>
+</ArrayOfIndustryGrowth>

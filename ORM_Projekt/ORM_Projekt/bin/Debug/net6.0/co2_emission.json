@@ -1,0 +1,50 @@
+[
+  {
+    "CO2EmissionID": 37,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "Coal": 214.31,
+    "Oil": 62.58,
+    "Gas": 30.8,
+    "Cement": 5.87,
+    "CO2_emission_summary": 313.57,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "CO2EmissionID": 112,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "Coal": 214.31,
+    "Oil": 62.58,
+    "Gas": 30.8,
+    "Cement": 5.87,
+    "CO2_emission_summary": 313.57,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "CO2EmissionID": 187,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "Coal": 214.31,
+    "Oil": 62.58,
+    "Gas": 30.8,
+    "Cement": 5.87,
+    "CO2_emission_summary": 313.57,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "CO2EmissionID": 262,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "Coal": 214.31,
+    "Oil": 62.58,
+    "Gas": 30.8,
+    "Cement": 5.87,
+    "CO2_emission_summary": 313.57,
+    "Country": null,
+    "Year": null
+  }
+]

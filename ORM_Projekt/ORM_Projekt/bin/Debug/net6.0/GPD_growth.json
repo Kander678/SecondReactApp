@@ -1,0 +1,42 @@
+[
+  {
+    "GDPGrowthID": 7,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.86,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "GDPGrowthID": 87,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.86,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "GDPGrowthID": 167,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.86,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "GDPGrowthID": 247,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.86,
+    "Country": null,
+    "Year": null
+  },
+  {
+    "GDPGrowthID": 327,
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.86,
+    "Country": null,
+    "Year": null
+  }
+]
